@@ -1,0 +1,21 @@
+RESULTS FOR THE CLASSIFIER WITH MODEL: alexnet   
+
+Number of images:           = 40
+Number of dog images:       = 30
+Number of not-a dog images: = 10
+
+% correct dogs:             = 100.0
+% correct breed:            = 80.0
+% correct not-a dog:        = 100.0
+% match:                    = 75.0
+
+PRINTING MISCLASSIFIED DOG BREEDs LABELS:
+
+File = Golden_retriever_05257.jpg      label: golden retriever     Classifier: afghan hound, afghan
+File = Boston_terrier_02285.jpg        label: boston terrier       Classifier: basenji             
+File = Beagle_01141.jpg                label: beagle               Classifier: english foxhound    
+File = Beagle_01170.jpg                label: beagle               Classifier: walker hound, walker foxhound
+File = Golden_retriever_05182.jpg      label: golden retriever     Classifier: tibetan mastiff     
+File = Great_pyrenees_05367.jpg        label: great pyrenees       Classifier: kuvasz              
+
+** Total Elapsed Runtime: 00:00:03

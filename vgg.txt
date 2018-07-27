@@ -1,0 +1,17 @@
+RESULTS FOR THE CLASSIFIER WITH MODEL: vgg       
+
+Number of images:           = 40
+Number of dog images:       = 30
+Number of not-a dog images: = 10
+
+% correct dogs:             = 100.0
+% correct breed:            = 93.33333333333333
+% correct not-a dog:        = 100.0
+% match:                    = 87.5
+
+PRINTING MISCLASSIFIED DOG BREEDs LABELS:
+
+File = Beagle_01170.jpg                label: beagle               Classifier: walker hound, walker foxhound
+File = Great_pyrenees_05367.jpg        label: great pyrenees       Classifier: kuvasz              
+
+** Total Elapsed Runtime: 00:00:36

@@ -1,0 +1,22 @@
+RESULTS FOR THE CLASSIFIER WITH MODEL: resnet    
+
+Number of images:           = 40
+Number of dog images:       = 30
+Number of not-a dog images: = 9
+
+% correct dogs:             = 100.0
+% correct breed:            = 90.0
+% correct not-a dog:        = 90.0
+% match:                    = 82.5
+
+PRINTING MISCLASSIFIED AS DOG LABELS:
+
+File = cat_01.jpg                      label: cat                  Classifier: norwegian elkhound, elkhound
+
+PRINTING MISCLASSIFIED DOG BREEDs LABELS:
+
+File = Beagle_01170.jpg                label: beagle               Classifier: walker hound, walker foxhound
+File = Golden_retriever_05182.jpg      label: golden retriever     Classifier: leonberg            
+File = Great_pyrenees_05367.jpg        label: great pyrenees       Classifier: kuvasz              
+
+** Total Elapsed Runtime: 00:00:07
